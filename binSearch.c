@@ -1,7 +1,7 @@
 #include "binSearch.h"
 
 void lerEPreencher(FILE *file, Candidato vetor[] ){
-    char linha[251];
+    char linha[252];
     char estado[3];
     char cidade[50];
     char numeroUrna[6];
@@ -11,7 +11,7 @@ void lerEPreencher(FILE *file, Candidato vetor[] ){
     char partido[20];
     char genero[10];
     char escolaridade[35];
-    char raca[14];
+    char raca[15];
     int i = 0;
 
     //Tiramos a primeira linha q noa tem conteudo

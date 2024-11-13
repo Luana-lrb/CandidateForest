@@ -15,7 +15,7 @@ typedef struct  candidatoArv{
     char partido[20];
     char genero[10];
     char escolaridade[35];
-    char raca[14];
+    char raca[15];
 } CandidatoArv;
 
 typedef struct No *Apontador;

@@ -1,7 +1,7 @@
 #include "AVL.h"
 
 void lerEPreencherArvAVL(FILE *file, ArvAVL *arv){
-    char linha[251];
+    char linha[252];
     char estado[3];
     char cidade[50];
     char numeroUrna[6];
@@ -11,7 +11,7 @@ void lerEPreencherArvAVL(FILE *file, ArvAVL *arv){
     char partido[20];
     char genero[10];
     char escolaridade[35];
-    char raca[14];
+    char raca[15];
     long int i = 0;
 
     // Preencher um registro e inserir ele na arvore, apan
