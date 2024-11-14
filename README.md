@@ -25,5 +25,5 @@ Para garantir modularidade e desempenho, as seguintes estruturas foram implement
 
  - [Professor Adré Backes](https://www.andrebackes.com/)
  - [Professor Nivio Ziviani](https://scholar.google.com/citations?user=OZ2ju_EAAAAJ)
- - [Professor Maria Camila](https://facom.ufu.br/pessoas/docentes/maria-camila-nardini-barioni)
+ - [Professora Maria Camila](https://facom.ufu.br/pessoas/docentes/maria-camila-nardini-barioni)
 
