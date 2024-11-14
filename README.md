@@ -7,10 +7,9 @@ Além disso, o tempo de cada consulta é exibido ao lado do resultado, permitind
 
 Para garantir modularidade e desempenho, as seguintes estruturas foram implementadas em TADs (Tipos Abstratos de Dados) separados:
 
-Vetor Ordenado: ideal para consultas sequenciais rápidas em um conjunto de dados já classificado.
-Árvore Binária: permite inserções e buscas eficientes em dados desordenados.
-Árvore AVL (balanceada): otimiza o desempenho de buscas e inserções, garantindo um tempo de acesso balanceado e eficiente para conjuntos de dados mais dinâmicos.
-Essa estrutura de dados versátil foi projetada para que o programa responda rapidamente, mesmo com grandes volumes de dados.
+ - Vetor Ordenado: ideal para consultas sequenciais rápidas em um conjunto de dados já classificado.
+ - Árvore Binária: permite inserções e buscas eficientes em dados desordenados.
+ - Árvore AVL (balanceada): otimiza o desempenho de buscas e inserções, garantindo um tempo de acesso balanceado e eficiente para conjuntos de dados mais dinâmicos. Essa estrutura de dados versátil foi projetada para que o programa responda rapidamente, mesmo com grandes volumes de dados.
 
 
 
