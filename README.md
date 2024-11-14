@@ -18,7 +18,7 @@ Para garantir modularidade e desempenho, as seguintes estruturas foram implement
 - [@Luana-lrb](https://github.com/Luana-lrb)
 - [@Danielbgoncalves](https://github.com/Danielbgoncalves)
 - [@guscmiranda](https://github.com/guscmiranda)
-- Sophia Ladir
+- [@sophialadir](https://github.com/sophialadir)
 
 
 ## Referência
